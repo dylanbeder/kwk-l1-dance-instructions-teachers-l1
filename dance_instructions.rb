@@ -1,5 +1,5 @@
 
 # Code your methods below
-room = [“Shannon”, “Ashley”, “Karlie Kloss”, “Hana”, “Regina George”]
-room[1]=
+room = ["Shannon", "Ashley", "Karlie Kloss", "Hana", "Regina George” 
+room[0] ="Cardi"
 puts room 
