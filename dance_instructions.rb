@@ -1,4 +1,5 @@
 
 # Code your methods below
-room=[1,2,3]
+room = [“Shannon”, “Ashley”, “Karlie Kloss”, “Hana”, “Regina George”]
+room[1]=
 puts room 
